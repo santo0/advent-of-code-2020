@@ -16,7 +16,6 @@ fn main() {
                 v.push(ip.parse::<i32>().unwrap());
             }
         }
-        part_two(v);
     }
 }
 
